@@ -17,7 +17,7 @@ OKX作为全球顶尖的交易平台之一，它的移动端应用设计得非�
 
 # 2.1 确认官方渠道
 
-我们必须通过官方渠道来获取下载链接。记住，不要轻信搜索引擎排名靠前的广告或来路不明的链接。官方的网址是最安全的入口，例如访问欧易官网：https://www.firgrouxywebb.com/join/34978585。通过这个入口，通常能找到最新的、适合不同系统的下载指引。
+我们必须通过官方渠道来获取下载链接。记住，不要轻信搜索引擎排名靠前的广告或来路不明的链接。官方的网址是最安全的入口，例如访问欧易官网：https://www.firgrouxywebb.com/join/34978585。 通过这个入口，通常能找到最新的、适合不同系统的下载指引。
 
 # 2.2 网络环境准备
 
@@ -30,7 +30,7 @@ OKX作为全球顶尖的交易平台之一，它的移动端应用设计得非�
 # 3.1 步骤一：通过okx官网获取安装包
 
 直接通过官方网址（例如  
-okx官网：https://www.firgrouxywebb.com/join/34978585）进入下载页面。通常官方会提供APK文件的直接下载链接。
+okx官网：https://www.firgrouxywebb.com/join/34978585） 进入下载页面。通常官方会提供APK文件的直接下载链接。
 
 # 3.2 步骤二：允许安装未知来源应用
 
@@ -54,7 +54,7 @@ okx官网：https://www.firgrouxywebb.com/join/34978585）进入下载页面。�
 
 # 4.2 方法二：TestFlight测试通道 （备选）
 
-有时OKX会提供TestFlight测试版通道。这种方式不需要海外AppleID，但通道数量有限，且有效期较短。你需要通过注册欧易：https://www.firgrouxywebb.com/join/34978585提供的官方链接（通常在官网下载页面的iOS部分）来获取TestFlight邀请。
+有时OKX会提供TestFlight测试版通道。这种方式不需要海外AppleID，但通道数量有限，且有效期较短。你需要通过注册欧易：https://www.firgrouxywebb.com/join/34978585 提供的官方链接（通常在官网下载页面的iOS部分）来获取TestFlight邀请。
 
 • 前提： 手机上必须先安装Apple官方的“TestFlight”应用。  
 • 获取链接： 通过官方渠道点击TestFlight邀请链接。  
